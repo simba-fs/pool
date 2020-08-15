@@ -1,5 +1,6 @@
 {
   "name": "@simba.fs/pool",
+  "public": true,
   "version": "1.0.0",
   "description": "Data management, auto remove item after specified time. Just add it to a pool. ",
   "main": "index.js",
