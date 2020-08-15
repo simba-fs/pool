@@ -46,10 +46,4 @@ module.exports = class Pool extends Set{
 		}
 		return this;
 	}
-
-	/*
-	 *[Symbol.iterator](){
-		for(let i of this.pool) yield i;
-	}
-	*/
 }
