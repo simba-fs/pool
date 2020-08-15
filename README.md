@@ -33,7 +33,7 @@ You can access the old `add` method by `#_add`
 ```js
 const user = new Pool(String);
 user.add(new String('Simba'));
-// This won't work, reasonings belong
+// This won't work, the reason is as follows
 console.log(typeof (new String('Simba')), user.type);
 // object [Function: String]
 // Ok, they are not ths same
