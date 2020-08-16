@@ -1,5 +1,6 @@
 {
-  "name": "@simba-fs/pool",
+  "name": "@simba.fs/pool",
+  "private": false,
   "public": true,
   "version": "1.0.2",
   "description": "Data management, auto remove item after specified time. Just add it to a pool. ",
